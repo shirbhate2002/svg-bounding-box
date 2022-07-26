@@ -69,4 +69,7 @@ function getBB(file_path){
     return ans;
 }
 
+//optimize svg will made
+//Bounding box of svg will be the output.
+
 console.log(getBB("try1.svg"));
