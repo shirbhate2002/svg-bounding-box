@@ -28,9 +28,8 @@ A mathematical way to find the Bounding-Box for the complex SVG. Using the chara
 
 | Input SVG | Output  |
 | :-------- | :------- |
-| ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
- | ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
- |
+| ![App Screenshot](https://github.com/shirbhate2002/svg-bounding-box/blob/master/ss/ss1.png)| ![App Screenshot](https://github.com/shirbhate2002/svg-bounding-box/blob/master/ss/ss_r1.png)|
+| ![App Screenshot](https://github.com/shirbhate2002/svg-bounding-box/blob/master/ss/ss2.png)| ![App Screenshot](https://github.com/shirbhate2002/svg-bounding-box/blob/master/ss/ss_r2.png)|
 
 
 
