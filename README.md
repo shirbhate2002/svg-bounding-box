@@ -1,5 +1,5 @@
 
-# Finding SVG Boundin-Box
+# Finding SVG Bounding-Box
 
 A mathematical way to find the Bounding-Box for the complex SVG. Using the characteristic that curves have zero slope at their maximums.
 
