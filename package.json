@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.2",
+    "svgo": "^2.8.0"
+  }
+}
